@@ -1,5 +1,9 @@
 # Next.js `use cache` Directive
 
+## Author
+x/twitter: @tegodotdev (tego.dev)
+gh: tego101
+
 ## Overview
 
 `'use cache'` is a compiler directive that opts a route, component, or function into caching. It replaced the old implicit fetch-level caching model. As of Next.js 16, **data fetching is dynamic by default** — you explicitly mark what gets cached.
